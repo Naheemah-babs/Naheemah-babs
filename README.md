@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a beginner data scientist and full stack developer...
 
 
 ## 🔗 Links
@@ -15,7 +15,7 @@ I'm a full stack developer...
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on creating responsive sites
 
-🧠 I'm currently learning Frontend and Backend development tools
+🧠 I'm currently learning Data Science,Frontend and Backend development tools
 
 👯‍♀️ I'm looking to collaborate on projects
 
@@ -26,5 +26,5 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, Python, SQL, CSS...
 
