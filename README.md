@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a beginner data scientist and full stack developer...
+I'm a full stack developer...
 
 
 ## 🔗 Links
